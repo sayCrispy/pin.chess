@@ -1,2 +1,4 @@
-# pin.chess
-# application code from chess.bunterbunker.org
+All JavaScript Modules from the WebApp chess.bunterbunker.org
+
+
+
